@@ -1,0 +1,2 @@
+http://www.usbwebserver.net/downloads/USBWebserver%20v8_en.zip
+https://cdn.mysql.com//Downloads/MySQL-5.7/mysql-5.7.18-win32.zip

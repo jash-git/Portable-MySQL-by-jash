@@ -1,0 +1,15 @@
+170607 14:40:49 [Note] Plugin 'FEDERATED' is disabled.
+170607 14:40:49 [Note] Plugin 'InnoDB' is disabled.
+170607 14:40:49 [Note] Event Scheduler: Loaded 0 events
+170607 14:40:49 [Note] C:\Users\RD\Desktop\MySQL\mysql\bin\mysqld_v8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+170607 14:52:12 [Note] Plugin 'FEDERATED' is disabled.
+170607 14:52:12 [Note] Plugin 'InnoDB' is disabled.
+170607 14:52:12 [Note] Event Scheduler: Loaded 0 events
+170607 14:52:12 [Note] C:\Users\RD\Desktop\MySQL\mysql\bin\mysqld_v8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
+170607 15:08:40 [Note] Plugin 'FEDERATED' is disabled.
+170607 15:08:40 [Note] Plugin 'InnoDB' is disabled.
+170607 15:08:41 [Note] Event Scheduler: Loaded 0 events
+170607 15:08:41 [Note] C:\mysql\bin\mysqld_v8.exe: ready for connections.
+Version: '5.1.44-community'  socket: ''  port: 3307  MySQL Community Server (GPL)
